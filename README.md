@@ -8,7 +8,7 @@ Back-End 개발자를 목표로 하고 있습니다.
 
 1998.02.15
 
-Email - ljm71555555@hmail.com   
+Email - ljm71555555@gmail.com   
 GitHub - https://github.com/LeesMond
 
 > 어떤 개발자인지 생각해보자
